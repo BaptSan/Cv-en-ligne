@@ -1,0 +1,36 @@
+body{
+	height: auto;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.container{
+	width: 40%;
+	height: auto;
+	background: #719add;
+	position: absolute;
+	box-shadow: 0 0 10px #111111;
+}
+#img{
+	border-radius: 10px;
+	float: lefts;
+}
+#cter1{
+	top: 15%;
+	left: 5%;
+}
+#cter2{
+	top: 25%;
+	right: 5%;
+}
+#cter3{
+	top: 55%;
+	left: 5%;
+}
+.cter4{
+	position: fixed;
+	z-index: 1;	
+	width: 100%;
+	text-align: center;
+}
